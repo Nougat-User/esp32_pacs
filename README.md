@@ -1,6 +1,9 @@
 # esp32_pacs
 ESP32 minimal code for PACS (СКУД)
 
+* ESP32 Система контроля и управления доступом
+* ESP32 Physical Access Control System
+
 
 # pinout
 
