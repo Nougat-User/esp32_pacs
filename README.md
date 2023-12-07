@@ -1,8 +1,8 @@
 # esp32_pacs
 ESP32 minimal code for PACS (СКУД) with MFRC522
 
-* ESP32 Система контроля и управления доступом
-* ESP32 Physical Access Control System
+* ESP32 Простая Система контроля и управления доступом
+* ESP32 Simple Physical Access Control System
 
 
 # pinout
